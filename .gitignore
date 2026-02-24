@@ -1,0 +1,6 @@
+obj/
+server
+client
+a.out
+temp/
+curl
